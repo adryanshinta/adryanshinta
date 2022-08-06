@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I am Adryan
+
+I am an Informatics Engineering student at Widyagama Malang University.
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/adryanshinta">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adryanshinta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
