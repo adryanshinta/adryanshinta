@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 ### I am Adryan
 
-I am an Informatics Engineering student at Widyagama Malang University.
+I've been fascinated with technology since I was a child. I enjoy testing out new software and hardware. It motivated me to understand more about how systems operate and finally introduced me to the modern technological era.
+
+Since 2019, I've attempted to study and work part-time in a variety of agencies and organizations in my community. And now I work as a copywriter at Kampung KB Cemerlang in Perian Village.
+
+Not only work, of course I also continue to learn. Some of the things that I continue to learn are English and Mandarin. Then some skills in programming such as Java, Python and MySQL databases.
 
 ### Github Statistic
 <p align="left">
